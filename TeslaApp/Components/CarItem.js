@@ -16,20 +16,22 @@ function CarItem() {
                 <Text style={styles.title}>Model S</Text>
                 <Text style={styles.subtitle}>Starting at $69,999</Text>
             </View>
-            <Button
-                type="primary"
-                content={"Custom Order"}
-                onPress={() => {
+            <View style={styles.buttonsContainer}>
+                <Button
+                    type="primary"
+                    content={"Custom Order"}
+                    onPress={() => {
 
-                }}
-            />
-            <Button
-                type="secondary"
-                content={"Existing Inventory"}
-                onPress={() => {
+                    }}
+                />
+                <Button
+                    type="secondary"
+                    content={"Existing Inventory"}
+                    onPress={() => {
 
-                }}
-            />
+                    }}
+                />
+            </View>
         </View>
     )
 }
