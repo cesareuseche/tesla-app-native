@@ -1,5 +1,6 @@
 import React from 'react'
 import { View, Text, ImageBackground } from 'react-native'
+import Button from './Button'
 import styles from './CartItemStyles';
 
 
@@ -15,6 +16,7 @@ function CarItem() {
                 <Text style={styles.title}>Model S</Text>
                 <Text style={styles.subtitle}>Starting at $69,999</Text>
             </View>
+            <Button type="primary" />
         </View>
     )
 }
