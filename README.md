@@ -2,8 +2,8 @@
 Tesla Front-End app using React Native. Fully scrollable Front-End Tesla shop app. 
 
 # Tesla App Images
-![modelS]('./modelS.png')
-![model3]('./model3.png')
-![modelX]('./modelX.png')
-![modelY]('./modelY.png')
+<img src="./modelS.png" />
+<img src="./model3.png'" />
+<img src="./modelX.png" />
+<img src="./modelY.png" />
 
