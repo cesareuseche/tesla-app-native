@@ -4,17 +4,24 @@ import Button from './Button'
 import styles from './CartItemStyles';
 
 
-function CarItem() {
+function CarItem(props) {
+    const { name, tagline, taglineCTA, image } = props;
     return (
         <View style={styles.carContainer}>
             <ImageBackground
-                source={require('../img/ModelX.jpeg')}
+                source={image}
                 style={styles.image}
             />
 
             <View style={styles.titles}>
-                <Text style={styles.title}>Model S</Text>
-                <Text style={styles.subtitle}>Starting at $69,999</Text>
+                <Text style={styles.title}>{name}</Text>
+                <Text style={styles.subtitle}>
+                    {tagline}
+                    {' '}
+                    <Text style={styles.subtitleCTA}>
+                        {taglineCTA}
+                    </Text>
+                </Text>
             </View>
             <View style={styles.buttonsContainer}>
                 <Button
