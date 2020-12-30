@@ -1,6 +1,17 @@
 # Tesla App React-Native
 Tesla Front-End app using React Native. Fully scrollable Front-End Tesla shop app. 
 
+# This Project includes:
+<ul>
+  <li> React Native </li>
+  <li> Custom Styles </li>
+  <li> Flatlist </li>
+  <li> Dimensions </li>
+  <li> snapToAlignment </li>
+  <li> decelerationRate</li>
+  <li> snapToInterval </li>
+  
+
 # Tesla App Images
 <table>
   <tr>
