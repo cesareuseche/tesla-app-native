@@ -1,4 +1,4 @@
-# Tesla-App-Native
+# Tesla App React-Native
 Tesla Front-End app using React Native. Fully scrollable Front-End Tesla shop app. 
 
 # Tesla App Images
