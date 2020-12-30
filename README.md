@@ -29,4 +29,4 @@ Tesla Front-End app using React Native. Fully scrollable Front-End Tesla shop ap
  </table>
 
 # Tesla App Video
-![](./tesla-app-gif.gif width="50%")
+<img src="./tesla-app-gif.gif" width=50% text-align="center"; />
