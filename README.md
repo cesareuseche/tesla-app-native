@@ -32,9 +32,9 @@ Tesla Front-End app using React Native. Fully scrollable Front-End Tesla shop ap
 
 <table style="text-align:center">
   <tr>
-    <td>Tesla App</td>
+    <th>Tesla App</th>
   </tr>
     <tr>
-       <td><img src="./tesla-app-gif.gif" width="100%" /></td>
+       <th><img src="./tesla-app-gif.gif" width="100%" /></th>
     </tr>
 </table>
