@@ -37,3 +37,13 @@ Tesla Front-End app using React Native. Fully scrollable Front-End Tesla shop ap
     <th><img width="100%" src="./tesla-app-gif.gif"></th>
   </tr>
 </table>
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `run ios`
+
+Runs the app in the development mode.\
+Open XCode to view the project
+
