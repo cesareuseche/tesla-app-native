@@ -38,7 +38,7 @@ Tesla Front-End app using React Native. Fully scrollable Front-End Tesla shop ap
   </tr>
 </table>
 
-## Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
